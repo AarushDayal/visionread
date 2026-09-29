@@ -1,0 +1,4 @@
+uploads/
+results.csv
+chart_*.png
+__pycache__/
