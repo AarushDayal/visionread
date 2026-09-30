@@ -1,5 +1,8 @@
-flask
 google-generativeai
+openai
 pillow
 numpy
 matplotlib
+rapidfuzz
+opencv-python-headless
+streamlit
